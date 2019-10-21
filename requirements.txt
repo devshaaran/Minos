@@ -83,7 +83,7 @@ luma.led-matrix==1.0.8
 luma.oled==2.4.1
 Markdown==3.0.1
 matplotlib==2.2.2
-nltk==3.3
+nltk==3.4.5
 numpy==1.14.5
 oauth2client==3.0.0
 packaging==18.0
