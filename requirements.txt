@@ -127,7 +127,7 @@ smbus2==0.2.1
 spidev==3.2
 tabulate==0.8.2
 tensorboard==1.11.0
-tensorflow==1.11.0
+tensorflow==2.6.4
 termcolor==1.1.0
 tinify==1.5.1
 tqdm==4.29.0
