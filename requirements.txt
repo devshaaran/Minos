@@ -108,7 +108,7 @@ Pyrebase==3.0.27
 python-crfsuite==0.9.6
 python-dateutil==2.7.3
 python-firebase==1.2
-python-jwt==2.0.1
+python-jwt==3.3.4
 pytz==2018.4
 PyYAML==3.13
 rasa-nlu==0.13.8
